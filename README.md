@@ -30,8 +30,8 @@ SO THAT I can keep a list of books to purchase
 ```
 
 ## Installation
-1.To use this app npm i
-2.Npm dependencies must be installed to run the application properly: the needed dependencies will be found on the package.json file.
+1.To use this app npm i <br>
+2.Npm dependencies must be installed to run the application properly: the needed dependencies will be found on the package.json file<br>
 3.Create at cluster on Mongodb atlas. 
 
 ## Tools
