@@ -48,7 +48,7 @@ SO THAT I can keep a list of books to purchase
   
 Run the following command at the terminal:
   
-`npm start`
+`npm start`<br>
 [Deployed application](https://book-search-challenge-21-mern.herokuapp.com/)
 
 ## Questions
